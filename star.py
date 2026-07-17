@@ -7,3 +7,6 @@ class star:
         self.mass = mass
         self.nucleo_status = nucleo_status
         
+        
+        
+        3

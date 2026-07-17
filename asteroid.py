@@ -5,3 +5,7 @@ class Asteroid:
         self.distance = distance
         self.orbit_speed = orbit_speed
         self.mass = mass
+        
+        
+        
+        3
